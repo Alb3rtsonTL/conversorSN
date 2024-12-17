@@ -13,11 +13,10 @@
 3. [Características de la Aplicación](#características-🎯)
 4. [Conocimientos Requeridos](#conocimientos-requeridos🙇🏻)
 5. [Uso de la Aplicación](#uso-🧩)
-6. [Capturas de Pantalla](#capturas-de-pantalla-📷)
-7. [Instalación](#instalación-📦)
-8. [Estructura del Proyecto](#estructura-del-proyecto-⚙)
-9. [Créditos](#créditos-👨‍💼)
-10. [Licencia](#licencia-📖)
+6. [Instalación](#instalación-📦)
+7. [Estructura del Proyecto](#estructura-del-proyecto-⚙)
+8. [Créditos](#créditos-👨‍💼)
+9. [Licencia](#licencia-📖)
 
 
 ## Descripción 📑
@@ -81,7 +80,6 @@ Para entender y desarrollar esta aplicación, es necesario tener conocimientos b
 
 
 ## Uso 🧩 
-[![Enlace al video](https://img.shields.io/static/v1?label=&message=Ver+tutorial+de+uso&color=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
 ![Captura de conversion](/Screenshots/Screenshot-BasesConversor-Results-Localhost.png)
 ![Captura de todas las conversiones](/Screenshots/Screenshot-BasesConversor-AllConversions-Localhost.png)
@@ -111,12 +109,6 @@ Sigue estos pasos para utilizar la aplicación:
 
 6. **Ver en Todas las Bases (Opcional):**\
    Marca la casilla **"Ver en los 4 sistemas numéricos"** para ver el número convertido en todas las bases simultáneamente.
-
-
-## Capturas de Pantalla 📷
-
-Si quieres hechas un vistazo al proyecto, te recomiendo:
-![Imagen del proyecto](./Resources/Screenshot/IMAGEN-DEL-PROYECTO.jpg)
 
 
 ## Instalación 📦
