@@ -1,0 +1,89 @@
+/* Footer */
+footer {
+    padding: 1rem;
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.9rem;
+    border-top: 1px solid #dee2e6;
+}
+
+footer a {
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+footer .right {
+    float: right;
+}
+
+footer .left {
+    float: left;
+}
+
+footer strong {
+    font-weight: bold;
+}
+
+
+
+/* CSS original */
+
+.project-header {
+    display: flex; /* Usamos Flexbox para alinear elementos */
+    align-items: center; /* Alineación vertical */
+    justify-content: center; /* Centra horizontalmente */
+    background-color: #343a40; /* Fondo oscuro */
+    color: #ffffff; /* Texto blanco */
+    padding: 15px 20px; /* Espaciado */
+    border-bottom: 2px solid #007bff; /* Línea inferior azul */
+}
+
+.project-logo {
+    height: 30px; /* Altura del logo */
+    margin-right: 15px; /* Espacio entre el logo y el texto */
+}
+
+.project-title {
+    font-size: 24px; /* Tamaño del título */
+    font-weight: bold; /* Negrita */
+    margin: 0; /* Elimina márgenes del encabezado */
+}
+
+footer {
+    background-color: #343a40; /* Color de fondo oscuro */
+    color: #ffffff; /* Color de texto blanco */
+    padding: 10px 30px; /* Espaciado en la parte superior e inferior */
+    font-size: 16px; /* Tamaño de fuente */
+    display: flex; /* Usamos Flexbox para distribuir los elementos */
+    justify-content: space-between; /* Espaciado entre los elementos */
+    align-items: center; /* Alineación vertical */
+    border-top: 2px solid #007bff; /* Borde superior de color azul */
+    border-radius: 10px; /* Bordes redondeados */
+    margin-top: 30px; /* Despega el footer del contenido superior */
+    margin-bottom: 20px; /* Despega el footer del borde inferior */
+}
+
+footer .left {
+    text-align: left;
+}
+
+footer .right {
+    text-align: right;
+}
+
+footer a {
+    color: #3494fc; /* Color de enlace azul */
+    text-decoration: none; /* Eliminar subrayado de los enlaces */
+}
+
+footer a:hover {
+    color: #58a2f1; /* Cambia el color a blanco cuando el enlace está hover */
+}
+
+footer strong {
+    font-weight: bold; /* Hacer que el texto sea negrita */
+}
+
+footer small {
+    font-size: 12px; /* Fuente más pequeña para notas adicionales */
+}
