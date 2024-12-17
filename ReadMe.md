@@ -113,12 +113,6 @@ Sigue estos pasos para utilizar la aplicación:
    Marca la casilla **"Ver en los 4 sistemas numéricos"** para ver el número convertido en todas las bases simultáneamente.
 
 
-## Capturas de Pantalla 📷
-
-Si quieres hechas un vistazo al proyecto, te recomiendo:
-![Imagen del proyecto](./Resources/Screenshot/IMAGEN-DEL-PROYECTO.jpg)
-
-
 ## Instalación 📦
 
 1. **Clona el Repositorio:**
