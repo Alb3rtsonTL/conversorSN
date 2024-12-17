@@ -13,11 +13,10 @@
 3. [Características de la Aplicación](#características-🎯)
 4. [Conocimientos Requeridos](#conocimientos-requeridos🙇🏻)
 5. [Uso de la Aplicación](#uso-🧩)
-6. [Capturas de Pantalla](#capturas-de-pantalla-📷)
-7. [Instalación](#instalación-📦)
-8. [Estructura del Proyecto](#estructura-del-proyecto-⚙)
-9. [Créditos](#créditos-👨‍💼)
-10. [Licencia](#licencia-📖)
+6. [Instalación](#instalación-📦)
+7. [Estructura del Proyecto](#estructura-del-proyecto-⚙)
+8. [Créditos](#créditos-👨‍💼)
+9. [Licencia](#licencia-📖)
 
 
 ## Descripción 📑
